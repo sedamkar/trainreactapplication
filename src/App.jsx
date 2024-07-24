@@ -57,6 +57,7 @@ const App = () => {
       </div>
       {/* Hero */}
       <div className="App container">
+        <h1> This is the latest change </h1>
         <h1 className="my-4">Web development Training</h1>
 
         <div className="row justify-content-center">
